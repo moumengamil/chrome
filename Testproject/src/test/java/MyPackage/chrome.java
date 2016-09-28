@@ -12,7 +12,7 @@ public class chrome {
 	@Test
 	public void test(){
 		
-		String exePath="src\\main\\resources\\chromedriver.exe";
+		String exePath="src\\test\\java\\chromedriver.exe";
 		File exeFile=new File(".",exePath);
 		//System.out.println(exeFile.getAbsolutePath());
 		
